@@ -1,4 +1,4 @@
-//Program for showing the use of structures and unions
+//Day 6 - Program for showing the use of structures and unions
 #include <stdio.h>
 static int count=0; 
 
